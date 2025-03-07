@@ -65,6 +65,7 @@ python valid.py
 ## Результаты
 - В логах обучения отображаются **точность** и **loss** для каждой эпохи.
 - Лучшая модель выбирается по минимальному loss на валидации.
+![image](https://github.com/user-attachments/assets/9a143263-2c7b-40f4-9872-090655a87723)
 
 ---
 huggingface.co/Mike98ssq/captcha

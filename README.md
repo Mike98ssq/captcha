@@ -64,7 +64,8 @@ python valid.py
 ---
 ## Результаты
 
-![image](https://github.com/user-attachments/assets/9a143263-2c7b-40f4-9872-090655a87723)
+![image](https://github.com/user-attachments/assets/559fd8c1-eae0-4c3b-bc3f-f40680ff359b)
+
 - В логах обучения отображаются **точность** и **loss** для каждой эпохи.
 - Лучшая модель выбирается по минимальному loss на валидации.
 ---

@@ -55,7 +55,7 @@ python main.py
 Лучшая модель сохраняется как `captcha_model_best.pth`.
 
 ---
-## Запуск модели про проверки
+## Запуск проверки модели
 
 ```bash
 python valid.py
